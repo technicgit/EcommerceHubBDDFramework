@@ -7,3 +7,11 @@ logs/
 reports/
 screenshots/
 *.log
+
+# Generated build and execution output
+target/
+test-output/
+logs/
+reports/
+screenshots/
+*.log
