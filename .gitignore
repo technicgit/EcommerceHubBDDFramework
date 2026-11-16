@@ -1,0 +1,9 @@
+/target/
+
+# Generated build and execution output
+target/
+test-output/
+logs/
+reports/
+screenshots/
+*.log
